@@ -10,3 +10,5 @@ And a VEX Motor Controller 29 is required to control the Vex 2 Wire Motor 393.(l
 7.2 V DC power supply required from the orange pin to the black pin of the VEX Motor Controller 29.
 
 The white pin of the VEX Motor Controller 29 is for a control signal.
+
+setting the gripper to catch state manually is required initally.
