@@ -12,3 +12,7 @@ And a VEX Motor Controller 29 is required to control the Vex 2 Wire Motor 393.(l
 The white pin of the VEX Motor Controller 29 is for a control signal.
 
 Setting the gripper to catch state manually is required initally.
+
+The circuit for the example Arduino Uno sketch in the Servo.ino file is as shown below:
+
+![alt text](http://[url/to/img.png](https://github.com/jcheng2020-github/vexServo-for-a-claw-with-Vex-2-Wire-Motor-393-control/blob/main/circuit%20for%20the%20gripper.PNG))
