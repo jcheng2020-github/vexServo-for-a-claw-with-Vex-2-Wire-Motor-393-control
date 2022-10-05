@@ -11,4 +11,4 @@ And a VEX Motor Controller 29 is required to control the Vex 2 Wire Motor 393.(l
 
 The white pin of the VEX Motor Controller 29 is for a control signal.
 
-setting the gripper to catch state manually is required initally.
+Setting the gripper to catch state manually is required initally.
