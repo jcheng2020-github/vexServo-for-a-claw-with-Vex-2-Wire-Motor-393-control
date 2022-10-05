@@ -15,4 +15,4 @@ Setting the gripper to catch state manually is required initally.
 
 The circuit for the example Arduino Uno sketch in the Servo.ino file is as shown below:
 
-![Screenshot](circuit for the gripper.PNG)
+![](circuit%20for%20the%20gripper.PNG)
