@@ -70,17 +70,17 @@ void vexServo::step(bool direction)
   {
     long time = millis();
     while(millis()-time<100)
-   {
-     speed(100);
+    {
+      speed(100);
     }
     speed(0);
   }
   else
-    {
+  {
     long time = millis();
     while(millis()-time<100)
-   {
-     speed(-100);
+    {
+      speed(-100);
     }
     speed(0);
   }
