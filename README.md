@@ -15,4 +15,4 @@ Setting the gripper to catch state manually is required initally.
 
 The circuit for the example Arduino Uno sketch in the Servo.ino file is as shown below:
 
-![Alt text](jcheng2020-github/vexServo-for-a-claw-with-Vex-2-Wire-Motor-393-control/circuit-for-the-gripper.PNGg?raw=true "Title")
+![Screenshot](circuit for the gripper.PNG)
