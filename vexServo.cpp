@@ -7,8 +7,8 @@
 */
 
 #include "vexServo.hpp"
-const int maxSpeedValue = 100;//The gripper releases
-const int minSpeedValue = -100;//The gripper catches
+const int maxSpeedValue = 300;//The gripper releases
+const int minSpeedValue = -300;//The gripper catches
 const int maxTempSpeedValue = 1800;//The gripper releases
 const int minTempSpeedValue = 1200;//The gripper catches
 const int maxPositionValue = 6;//The release state of the gripper
@@ -69,18 +69,18 @@ void vexServo::step(bool direction)
   if(direction == true)
   {
     long time = millis();
-    while(millis()-time<100)
+    while(millis()-time<120)
     {
-      speed(100);
+      speed(300);
     }
     speed(0);
   }
   else
   {
     long time = millis();
-    while(millis()-time<100)
+    while(millis()-time<30)
     {
-      speed(-100);
+      speed(-300);
     }
     speed(0);
   }
