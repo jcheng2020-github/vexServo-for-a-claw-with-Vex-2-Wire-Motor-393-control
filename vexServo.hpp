@@ -16,10 +16,10 @@ class vexServo: public Servo
   public:
     int initial(int pin);
     //for set target pin, initialize the vexServo type variable by the member function vexServo::initial(int pin) firstly, 
-    //then, member function vexServo::speed() is available
+    //then, member function vexServo::speed(int speedValue) and vexServo::setPosition(int positionValue) are available
     //setting the gripper to catch state manually is required initally.
     void speed(int speedValue);
-    //the range of int variable speedValue should be in the interval [-100,100],
+    //the range of int variable speedValue should be in the interval [-300,300],
     //if speedValue > 0, the gripper moves in release direction
     //if speedValue < 0, the gripper moves in catches direction
     //if speedValue == 0, the gripper remains static
