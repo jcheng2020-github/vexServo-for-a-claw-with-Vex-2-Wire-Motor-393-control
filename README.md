@@ -7,7 +7,7 @@ The Vex 2 Wire Motor 393 drives this gripper.(link: https://www.vexrobotics.com/
 
 And a VEX Motor Controller 29 is required to control the Vex 2 Wire Motor 393.(link: https://www.vexrobotics.com/276-2193.html)
 
-7.2 V DC power supply required from the orange pin to the black pin of the VEX Motor Controller 29.
+7.4 V DC power supply required from the orange pin to the black pin of the VEX Motor Controller 29.
 
 The white pin of the VEX Motor Controller 29 is for a control signal.
 
