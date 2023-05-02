@@ -4,3 +4,5 @@
 * Connect Pin 8 of Arduino Mega 2560 to Pin3 of Arduino Uno, where Pin 3 recieves pulse signal.
 * Run Chris Annin's ARCS program `AR4 HMI interface 1.3 exe` for AR4 form page: https://www.anninrobotics.com/downloads,
 setup the COM port for Arduino Mega 2560, activate xbox controller control mode. Then the user is able to control the open and close of the gripper by pushing and releasing the start button of the Xbox controller.
+## Circuit Diagram:
+![](gripper%20ARCS%20Arduino%20Mega%202560-Arduino%20Uno-Vex%20Motor%20Controller%2029%20diagram.PNG)
