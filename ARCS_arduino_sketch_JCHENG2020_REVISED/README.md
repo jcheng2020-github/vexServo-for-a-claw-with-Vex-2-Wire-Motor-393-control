@@ -1,7 +1,7 @@
 # Use the start button of the Xbox controller to control the gripper open and close
 ## Instructions to setup the circuit for the gripper:
 * Make Arduino Mega 2560 and Arduino UNO of gripper common ground
-* Connect Pin 8 of Arduino Mega 2560 to Pin3 of Arduino Uno, where Pin 3 recieves pulse signal.
+* Connect Pin 8 of Arduino Mega 2560 to Pin3 of Arduino Uno, where Pin 3 receives the pulse signal.
 ## Circuit Diagram:
 ![](gripper%20ARCS%20Arduino%20Mega%202560-Arduino%20Uno-Vex%20Motor%20Controller%2029%20diagram.PNG)
 ## Instructions to setup ARCS program:
