@@ -7,4 +7,4 @@
 ## Instructions to setup ARCS program:
 * Connect Arduino Mega 2560 to a Windows PC computer by a USB cable. And burn Arduino Mega 2560 script `ARCS_arduino_sketch_JCHENG2020_REVISED` in the Arduino Mega 2560 (gripper)
 * Run Chris Annin's ARCS program `AR4 HMI interface 1.3 exe` for AR4 form page: https://www.anninrobotics.com/downloads,
-setup the COM port for Arduino Mega 2560, activate xbox controller control mode. Then the user is able to control the open and close of the gripper by pushing and releasing the start button of the Xbox controller.
+set up the COM port for Arduino Mega 2560, and activate Xbox controller control mode. Then the user will be able to control the opening and closing of the gripper by pushing and releasing the start button of the Xbox controller.
